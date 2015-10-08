@@ -1,0 +1,13 @@
+$(document).ready(function(){
+	$('h1').hover(function(){
+			$(this).addClass('active');
+		},
+		function(){
+			$(this).removeClass('active');    
+		});
+	$('.body').hide();
+	$('.title').on('click',(function(){
+		$(this).children('.body').slideToggle();
+	})
+	);
+});

@@ -1,0 +1,94 @@
+* {
+	font-family: Oswald, sans-serif;
+}
+
+html {
+	background: url('Hoh-Rainforest-1.jpg') no-repeat center center fixed;
+}
+
+body{
+	width:80%;
+	margin:auto auto;
+	padding: 20px;
+}
+
+.section table {
+	border:0; 
+	width:100%;
+	padding: 5px;
+}
+
+
+table tr td {
+	padding: 3px;
+}
+
+h1 {
+	border: 2px solid black;
+	padding: 7px;
+    border-radius: 8px;
+    font-size: 45px;
+    margin: 20px 45px;
+}
+
+
+.section h1 {
+	font-family: Oswald, sans-serif;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 75px;
+    background: url('wood_grain_texture_4_by_hyenacub_stock-d3a1cr8.jpg') no-repeat;
+    overflow: hidden;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 20px;
+    width: 640px;
+}
+
+header a{
+	text-decoration: none;
+	color: black;
+}
+
+.active {
+    background-color:#999966;
+}
+
+h2 {
+	font-size: 52px;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+
+.title {
+	width: 640px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.title h1{
+	background: url('11554-a-wood-grain-texture-pv.jpg') center center;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.body{
+	color: darkkhaki;
+	margin: 30px auto;
+	opacity: 1;
+	text-align: left;
+	background: url('apple-birch.jpg') center center;
+	border: 2px solid black;
+    border-radius: 8px;
+    padding: 20px;
+    width: 640px;
+}
+
+
+.body ul li {
+	list-style-type: none;
+	margin-bottom: 25px;
+	color: darkkhaki;
+
+}
