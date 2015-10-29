@@ -3,7 +3,7 @@
 }
 
 html {
-	background: url('images/Hoh-Rainforest-1.jpg') no-repeat center center fixed;
+	background: url('../images/Hoh-Rainforest-1.jpg') no-repeat center center fixed;
 }
 
 body{
@@ -39,7 +39,7 @@ h1 {
 header {
     text-align: center;
     margin-bottom: 75px;
-    background: url('images/wood_grain_texture_4_by_hyenacub_stock-d3a1cr8.jpg') no-repeat;
+    background: url('../images/wood_grain_texture_4_by_hyenacub_stock-d3a1cr8.jpg') no-repeat;
     overflow: hidden;
     border: 2px solid black;
     border-radius: 8px;
@@ -69,7 +69,7 @@ h2 {
 }
 
 .title h1{
-	background: url('images/11554-a-wood-grain-texture-pv.jpg') center center;
+	background: url('../images/11554-a-wood-grain-texture-pv.jpg') center center;
 	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
 }
 
@@ -78,7 +78,7 @@ h2 {
 	margin: 30px auto;
 	opacity: 1;
 	text-align: left;
-	background: url('images/apple-birch.jpg') center center;
+	background: url('../images/apple-birch.jpg') center center;
 	border: 2px solid black;
     border-radius: 8px;
     padding: 20px;
